@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1071000820654",
+    "firebase_url": "https://audiouploaddownload-d6035.firebaseio.com",
+    "project_id": "audiouploaddownload-d6035",
+    "storage_bucket": "audiouploaddownload-d6035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071000820654:android:f47a9f24cbf19dfd",
+        "android_client_info": {
+          "package_name": "com.cse.mist.audio_upload_download"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071000820654-ejqtfostca3umtf0bojpb3gsnc9hcvkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse.mist.audio_upload_download",
+            "certificate_hash": "54bba424ed27e6c1c184d02703b475afad7b84c2"
+          }
+        },
+        {
+          "client_id": "1071000820654-qo3fegufh5kfe4nc587ogrk9m83hge11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNm6VThEl97HvxlkSwHAryP2s7CC28AAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071000820654-qo3fegufh5kfe4nc587ogrk9m83hge11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

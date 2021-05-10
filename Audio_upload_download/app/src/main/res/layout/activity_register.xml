@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cse.mist.audio_upload_download.Register">
+
+    <EditText
+        android:id="@+id/et_remail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="72dp"
+        android:layout_marginRight="72dp"
+        android:layout_marginTop="73dp"
+        android:ems="10"
+        android:hint="Enter email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/et_rpass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/et_remail"
+        android:layout_alignStart="@+id/et_remail"
+        android:layout_below="@+id/et_remail"
+        android:layout_marginTop="49dp"
+        android:ems="10"
+        android:hint="Enter Password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/btn_reg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/et_rpass"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="43dp"
+        android:text="Register" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/et_rpass"
+        android:layout_alignStart="@+id/et_rpass"
+        android:layout_below="@+id/btn_reg"
+        android:layout_marginTop="29dp"
+        android:ems="10"
+        android:hint="already register click here"
+        android:inputType="textPersonName"
+        android:onClick="LoginPage" />
+
+
+</RelativeLayout>

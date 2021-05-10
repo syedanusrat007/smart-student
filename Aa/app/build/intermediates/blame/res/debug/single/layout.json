@@ -1,0 +1,798 @@
+[
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_security_q1.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_security_q1.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_reg_auth.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_reg_auth.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_index.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_index.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_show_subjects.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_show_subjects.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_students_others.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_students_others.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_index.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_index.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_department.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_department.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_save_ordel.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_save_ordel.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_security_q2.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_security_q2.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_set_status.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_set_status.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_autority_profile.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_autority_profile.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_week.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_week.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_new_term.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_new_term.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_date.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_date.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_up_auth.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_sign_up_auth.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_subjects.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_subjects.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_show_subjects.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_show_subjects.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_reg_auth.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_reg_auth.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_set_status.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_set_status.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_department.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_department.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_select_sub.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_select_sub.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_reg_auth.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_reg_auth.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_autority_profile.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_autority_profile.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_chat_history_t.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_chat_history_t.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_set_status.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_set_status.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_new_term.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_new_term.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_new_term.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_new_term.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_up_t.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_sign_up_t.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_week.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_week.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_students_others.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_students_others.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_show_student.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_show_student.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_sign_in.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_student_sign_in.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_sign_in.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_student_sign_in.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_up_auth.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_sign_up_auth.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_id.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_student_id.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_security_q2.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_security_q2.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_finger_print.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_finger_print.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_finger_print.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_finger_print.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_week.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_week.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_date.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_date.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_show_subjects.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_show_subjects.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_id.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_student_id.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_id.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_student_id.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_record.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_record.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_show_student.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_show_student.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_up_t.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_sign_up_t.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_security_q1.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_security_q1.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_list.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_student_list.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_up_auth.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_sign_up_auth.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_autority_profile.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_autority_profile.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_record.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_record.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_select_sub.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_select_sub.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_save_ordel.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_save_ordel.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_sign_in.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_student_sign_in.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_security_q2.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_security_q2.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_date.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_date.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_index.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_index.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_record.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_record.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_save_ordel.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_save_ordel.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_chat_history_t.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_chat_history_t.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_chat_history_t.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_chat_history_t.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_sign_up_t.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_sign_up_t.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_subjects.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_subjects.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_select_sub.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_select_sub.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_students_others.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_students_others.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/activity_security_q1.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/src/main/res/layout/activity_security_q1.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/build/intermediates/res/merged/debug/layout/activity_subjects.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student2/Autistic/app/src/main/res/layout/activity_subjects.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mariumbinteibrahim/.android/build-cache/5dc21fbdef0af59874c101e42028d7417563d4dc/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/build/intermediates/res/merged/debug/layout/activity_student_list.xml",
+        "source": "/Users/mariumbinteibrahim/Desktop/Smart Student/Autistic/app/src/main/res/layout/activity_student_list.xml"
+    }
+]

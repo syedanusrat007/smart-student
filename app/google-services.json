@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "631949481110",
+    "firebase_url": "https://ieee-7fa5b.firebaseio.com",
+    "project_id": "ieee-7fa5b",
+    "storage_bucket": "ieee-7fa5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631949481110:android:118f32ee8f8694c9",
+        "android_client_info": {
+          "package_name": "com.cse.mist.audiorecordtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631949481110-nmo2tqrer47c3lmu7nilrjh05357p33j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse.mist.audiorecordtest",
+            "certificate_hash": "54bba424ed27e6c1c184d02703b475afad7b84c2"
+          }
+        },
+        {
+          "client_id": "631949481110-ut86psto5tps5n9a4ntgm1nhk9sdipu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFiFaT_mctqkmUI4lrOX_-pkA1erWi_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631949481110-ut86psto5tps5n9a4ntgm1nhk9sdipu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

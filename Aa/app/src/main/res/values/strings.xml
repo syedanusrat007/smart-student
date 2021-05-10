@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Autistic</string>
+
+    <string-array name="rank">
+        <item>Lecturer</item>
+        <item>Assistent Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+        <item android:id="@+id/term"
+            android:title="Manage Term and Subjects"/>
+
+        <item android:id="@+id/showSub"
+            android:title="Show Subjects by Level,Term"/>
+
+        <item android:id="@+id/student_list"
+            android:title="Manage Student List"/>
+
+        <item android:id="@+id/exam_routine"
+            android:title="Manage exam routine"/>
+
+        <item android:id="@+id/log_out"
+            android:title="Log Out"/>
+
+
+
+</menu>

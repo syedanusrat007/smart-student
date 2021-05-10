@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="autistic.company.com.autistic">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Smart Student"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NewTerm" />
+        <activity android:name=".Subjects" />
+        <activity android:name=".Index" />
+        <activity android:name=".ShowSubjects" />
+        <activity android:name=".SetStatus" />
+        <activity android:name=".Record" />
+        <activity android:name=".SaveORDel" />
+        <activity android:name=".SelectSub" />
+        <activity android:name=".StudentsOthers" />
+        <activity android:name=".StudentSignIn" />
+        <activity android:name=".StudentID" />
+        <activity android:name=".SecurityQ1" />
+        <activity android:name=".SecurityQ2" />
+        <activity android:name=".chat" />
+        <activity android:name=".Week" />
+        <activity android:name=".Date" />
+        <activity android:name=".SignIn" />
+        <activity android:name=".SignUpT" />
+        <activity android:name=".ChatHistoryT" />
+        <activity android:name=".SignUpAuth" />
+        <activity android:name=".RegAuth" />
+        <activity android:name=".AutorityProfile" />
+        <activity android:name=".StudentList" />
+        <activity android:name=".ShowStudent" />
+        <activity android:name=".Profile" />
+        <activity android:name=".FingerPrint" />
+        <activity android:name=".Department"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720446280963",
+    "firebase_url": "https://aafirebaseproject-bbf46.firebaseio.com",
+    "project_id": "aafirebaseproject-bbf46",
+    "storage_bucket": "aafirebaseproject-bbf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720446280963:android:0fc240867eccfe50",
+        "android_client_info": {
+          "package_name": "autistic.company.com.autistic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720446280963-qdqeiojutf91ob3othhr5dro2plk6rpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "autistic.company.com.autistic",
+            "certificate_hash": "54bba424ed27e6c1c184d02703b475afad7b84c2"
+          }
+        },
+        {
+          "client_id": "720446280963-ob9q5sb13eqfqfgc4tf4t5t95nsihq8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDngpjwv3BfcV9S43iFM5bX1dGTH9yYbds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720446280963-ob9q5sb13eqfqfgc4tf4t5t95nsihq8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

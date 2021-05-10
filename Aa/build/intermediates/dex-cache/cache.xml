@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/8eaf13540e0783f82c0e0e4364b37673eb1d307c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_2938985f9ee70d5f091fe4003063795629e12b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/291001153318ac4c0e58743338a7fe5a97f10cba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_771e51da6df0e00ea090d64cd259bbd57d644053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/cbc9ee6bb7f4047cb033dbaad39073b7e9c5cfd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_91c5f664289c527222373efdb1452b86eb2a0fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/544d6e0242dac6ec639aef888f7b6dfc9cb2b565/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_82a649e0db01e75a595238a966cd2fec7d9e02ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/89a04b886d9d8da9561aa007d0f5d0b69cf66577/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3013ffee567202ddab82286ac45b28fcb1e7926a">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_d4d790dd884eb0732f9bfb6ba9cd2bc91ab39353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/3bc8a161001b68a57997a3a2531d02dd81e2f633/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_254e39dcc7611b4b13ebf81f63f246dbd914ab37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/f00fc70fc9bf3b21b13d8c82cd5146a019e3c49a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4fa53b1dbc43a65e9cbcbfe25f4abc47264e78c">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_02287a8cccc9ac7b69e701954e52d4ea5ee31a40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/271735a0268c2e94ba7b667e757d736080313354/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5bd38c72db0a3b4140d38b7fb527e78e46126d79">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_a729c6929bf4910ea0c3518ca6bc3ec7db445a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/df9cdad79a3c4ca5f2927767b848ecab4fcf9060/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d94940ddde71cc57402c78b7d8c335d61958f486">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_ecf3e9e8dc5a0719cadff5c9d7adfcd015e5e040.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/17882f44aee945d21aa665cec7bc3e07382712fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_196824a3a6e93c163105765c79c06d76bf610859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/025946d72c62e37dbb04cce6641cb13801036ebe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a572a0bd9ea324b099b1761670237bc1be8ba7b">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_b238ba4a272b2b9db304405f8dbd67d2020dafab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/96347ab791210f407d452d4a4e3121386cc09882/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_06db4928e58e9c756e58b4792a4ba1450bfa65c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/737acf3aa407e0e46af3059448bdfc3428ec6196/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec1f195979cc7f1ec94779fa16f1b10aac8aceca">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_761b05f9afa9510d67d1e8647584bd31a2edade7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/ef698bc126d2b24d357a0e3df271580d8cc762cb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_0c6fc80ba90bbcd03488a2a714b6c51083eaa714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/8d6c6b404b37887f89aa3f954ca6b74cf09752ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_5ee37ba53666842451bd9bd220f3f1ebb5ebc9bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/8f9b55f8c4545a752b879d37d76f2a04ea60f359/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_1a4b9fad487dae6d215f40cac4b4eb82794ff758.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/edd194bc9b4239213f9d62afe7de468846103612/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb238c479cbda3db7cef9a99c11e5fd4851445fe">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_0fd63347ec5e68747cde8b169625e4a10237f3e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/1bcf33061096853024bdb5ece42ca1f17ef71cdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_9322de50c139e7a15ba3f98bd246d46038c615c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mariumbinteibrahim/.android/build-cache/bb04833233295d47c6e3ff0d2064d4489d8a7eba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="/Users/mariumbinteibrahim/Desktop/Project Updates/Autistic/app/build/intermediates/pre-dexed/debug/classes_c05c7f3c7229db957954da5b8f44834fe8a0a0d9.jar" />
+    </item>
+
+</items>

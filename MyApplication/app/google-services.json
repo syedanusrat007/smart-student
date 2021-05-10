@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1040357690930",
+    "firebase_url": "https://myapplication-d2caf.firebaseio.com",
+    "project_id": "myapplication-d2caf",
+    "storage_bucket": "myapplication-d2caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040357690930:android:1e102ad5d68ed44a",
+        "android_client_info": {
+          "package_name": "smartstudent.ema.com.smartstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040357690930-67jr1bu1h4tap1dbtm93hpshpd2s825s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartstudent.ema.com.smartstudent",
+            "certificate_hash": "54bba424ed27e6c1c184d02703b475afad7b84c2"
+          }
+        },
+        {
+          "client_id": "1040357690930-469ngtgubh2q6vjikm4n7blstehlomd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "smartstudent.ema.com.smartstudent",
+            "certificate_hash": "3a1be70dda82616356f06b3514417e9ecb559c3e"
+          }
+        },
+        {
+          "client_id": "1040357690930-8nnc7tgp832it33qdhq2uanmeftespia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2vAsKHepZMUHM8M-aUn8xwN-Ibjwly9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040357690930-8nnc7tgp832it33qdhq2uanmeftespia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

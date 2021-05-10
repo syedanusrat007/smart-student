@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="autistic.company.com.autistic.SecurityQ1"
+    android:orientation="vertical"
+    android:layout_margin="3dp"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:text="What you like most? Tap 2 times"
+        />
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1sp"
+        android:background="#30FFFFFF"
+        android:layout_weight="1"
+        >
+        <Button
+            android:id="@+id/buttonRec"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Mountains"
+            android:textSize="30sp"
+            android:background="#667943"
+            android:textColor="#FFFFFF"
+            android:layout_margin="10dp"
+
+            />
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1sp"
+        android:background="#30FFFFFF"
+        android:layout_weight="1"
+        >
+        <Button
+            android:id="@+id/buttonPlay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Sea"
+            android:textSize="30sp"
+            android:background="#667943"
+            android:textColor="#FFFFFF"
+            android:layout_margin="10dp"
+            />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="1sp"
+        android:background="#30FFFFFF"
+        android:layout_weight="1"
+        >
+        <Button
+            android:id="@+id/buttonPla"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="Green Nature"
+            android:textSize="30sp"
+            android:background="#667943"
+            android:textColor="#FFFFFF"
+            android:layout_margin="10dp"
+            />
+
+    </FrameLayout>
+
+
+</LinearLayout>
